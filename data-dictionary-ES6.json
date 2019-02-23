@@ -3,9 +3,9 @@
         "O que é" : "É a versão atualizada do JavaScript, vem com novas features e maneiras diferentes de se trabalhar"
     },
     "scope" : "Scope ou escopo se refere a área em que o elemento existe e pode atuar, esta área é definida pelas  {bloco} as quais chamamos de bloco.",
-    "var" : "Definidor de variável com esscopo GLOBAL",
+    "var" : "Definidor de variável com escopo GLOBAL",
     "let" : "Definidor de variável com escopo de bloco",
     "const" : "Definidor de constante com escopo de bloco. Obs: Objetos mesmo definidos como const podem ter seus VALORES reatribídos",
-    "Object.freeze(obj)" : "Mátodo para deixar objetos totalmente imutáveis"
-
+    "Object.freeze(obj)" : "Método para deixar objetos totalmente imutáveis",
+    "Arrow Functions" : "É uma nova sintase para a criação de funções no javaScript."
 }
