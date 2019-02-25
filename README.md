@@ -12,5 +12,6 @@ Este repositório tem como intuito ser utilizado para a execução do curso de J
 
 Cada tema to curso está dividido em pastas, buscando sempre organização e clareza.
 
-Cada pasta possui um "dicionário de dados" do assunto que está sendo estudado apontando o arquivo e o código onde o elemento pode ser encontrado em uso. 
+Cada pasta possui um "dicionário de dados" do assunto que está sendo estudado.
+
 O dicionário de dados está escrito em padrão json para posterior utilização.
