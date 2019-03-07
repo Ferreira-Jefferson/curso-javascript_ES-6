@@ -10,5 +10,11 @@
     "Arrow Functions" : "É uma nova sintase para a criação de funções no javaScript.",
     "Default Parameters" : "Permite definir um valor padrão para os parâmetros, para o caso de não ser informado na chamada da função.",
     "Rest Parameters" :  "Uma nova forma de pegar valores passados a mais em uma função.",
-    "Spread Operator" : "Maneira mais simpes de desmembrar vetores sem precisar iterálos...String é um tipo de vetor."
+    "Spread Operator" : "Maneira mais simples de desmembrar vetores sem precisar iterálos...String é um tipo de vetor.",
+    "Template Literal" : "Nova forma de declaração de strings, permite a interpolação de expressões junto a String",
+    "Tagged Template" : "É a maneira de passar Templates Literal para uma função, a função recebe um primeiro valor com um array com somente as Strings do Template Literal e os valores seguintes são as expressões interpoladas no Template Literal",
+    "Raw String" : "Básicamente permite escrever uma String sem que eles surtam efeito, uma outra característica é fazer o efeito contrário da Tagged Template",
+    "Property Shorthand" : "Sintaxe mais curta para a definição de propriedade de objetos com nome similares",
+    "Computed Properties" : "Permite definir o nome de uma propriedade de um objeto com base no retorno de uma função",
+    "Method Properties" : "Permite criar uma espécie de 'protótipo de função ou interface' dentro de um objeto, este após a criação pode ser sobrescrito para só então funcionar como uma função"
 }
