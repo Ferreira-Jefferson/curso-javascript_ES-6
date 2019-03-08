@@ -15,6 +15,11 @@
     "Tagged Template" : "É a maneira de passar Templates Literal para uma função, a função recebe um primeiro valor com um array com somente as Strings do Template Literal e os valores seguintes são as expressões interpoladas no Template Literal",
     "Raw String" : "Básicamente permite escrever uma String sem que eles surtam efeito, uma outra característica é fazer o efeito contrário da Tagged Template",
     "Property Shorthand" : "Sintaxe mais curta para a definição de propriedade de objetos com nome similares",
-    "Computed Properties" : "Permite definir o nome de uma propriedade de um objeto com base no retorno de uma função",
-    "Method Properties" : "Permite criar uma espécie de 'protótipo de função ou interface' dentro de um objeto, este após a criação pode ser sobrescrito para só então funcionar como uma função"
+    "Computed Property names" : "Permite definir o nome de uma propriedade de um objeto com base no retorno de uma função",
+    "Method Properties" : "Permite criar uma espécie de 'protótipo de função ou interface' dentro de um objeto, este após a criação pode ser sobrescrito para só então funcionar como uma função",
+    "Array Matching" : "Permite desestruturar um array em variáveis de forma simples e intuitiva",
+    "Object Matching" : "Forma simples de passar valores de um objeto para uma variável ou para outros objetos",
+    "Object And Array Matching, Default Values" : "permite aplicar o Destructuring Assignment e caso o valor não seja preenchido a variável recebe um valor padrão",
+    "Fail-Soft Destructuring" : "Provocar a falha de um descructuring propositalmente",
+    "Parameter Context Matching" : "Permite aplicar todos os conceitos do destructuring nos parâmetros de funções"
 }
