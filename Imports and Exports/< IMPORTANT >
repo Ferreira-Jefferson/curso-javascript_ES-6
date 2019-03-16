@@ -1,0 +1,2 @@
+Imports e Exports ainda não são suportados nativamente o que pode ocasinar erros em eventuais testes
+Para fins de testes o indicado é utitiizar um typeScript ou outros superSets do javaScript
