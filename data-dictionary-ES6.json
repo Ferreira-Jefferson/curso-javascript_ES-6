@@ -21,5 +21,8 @@
     "Object Matching" : "Forma simples de passar valores de um objeto para uma variável ou para outros objetos",
     "Object And Array Matching, Default Values" : "permite aplicar o Destructuring Assignment e caso o valor não seja preenchido a variável recebe um valor padrão",
     "Fail-Soft Destructuring" : "Provocar a falha de um descructuring propositalmente",
-    "Parameter Context Matching" : "Permite aplicar todos os conceitos do destructuring nos parâmetros de funções"
+    "Parameter Context Matching" : "Permite aplicar todos os conceitos do destructuring nos parâmetros de funções",
+    "export" : "Palavra reservada para fazer exportação de môdulos",
+    "import" : "Palavra reservada para fazer importação de môdulos",
+    "re-export" : "Maneira simples de se fazer a importação e exportação de diferentes môdulos, se utiliza da palavra reservada export"
 }
