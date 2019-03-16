@@ -13,7 +13,7 @@ export const MAX = 1000
 export let name = "Nomed"
 
     // nomed export após a declaração
-function mult(a, b){
+function multiplicacao(a, b){
     return a * b;
 }
 
@@ -25,7 +25,7 @@ pot = (a, b) => {
 
 const PI = 3.1415
 
-export { mult, pot, PI }  // atente-se às chaves {}
+export { multiplicacao as mult, pot, PI }  // atente-se às chaves {} e ao uso do ´as´ para dar um alias(apelido) ao que será importado
 
 
 // Exportação padrão  ==> Indicada para quando queremos disponibilizar valores primários e mais importantes, geralmente funções e classes, 
@@ -60,4 +60,24 @@ const API_KEY = 'k3jkdfsakh3424l124l124l24b2b3';
 export default API_KEY
 
 
-// 
+// Exportação Mista
+// Se dá quando utilizamos tanto a export nomed quanto a export default no mesmo môdulo
+
+    // Na declaração
+export const MAX = 1e9
+export default function pi(){
+    console.log('3.1415....');
+}
+
+    // Após a declaração
+let casa = 'Rua das flores - 54';
+minhaCasa = () => casa;
+
+export { casa }
+export default minhaCasa;
+
+    // Mista raíz
+let ola = 'Olá';
+let padrao = () => `${ola} Mundo!`
+
+export { padrao as default, ola }
