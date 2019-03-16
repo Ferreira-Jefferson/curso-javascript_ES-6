@@ -1,4 +1,4 @@
-// Permite importar variáveis, funções, classes e métodos para outros lugares
+// Permite exportar variáveis, funções, classes e métodos para outros lugares
 // Tudo que é declarado em um môdulo é restrito a ele e só pode ser  acessado caso seja exportado
 // Possui como principal característica ser exportado em STRICT MODE
 // Possui três formas de exportação, nomeada (nomed), padrão (default) e mista (nomed and default)
